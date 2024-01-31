@@ -1,4 +1,3 @@
-"use client";
 import React, { useState, useEffect } from "react";
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 import Backendless from "backendless";
